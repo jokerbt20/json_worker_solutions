@@ -1,0 +1,23 @@
+{
+	"data": [{
+		"id": 1,
+		"name": "Fire Template 1",
+		"isDeleted": false,
+		"updateDate": "2022-04-06T11:00:33.5223914Z",
+		"solutions": [
+
+			{
+				"id": 123,
+				"name": "Solution 1",
+				"isDeleted": false,
+				"updateDate": "2022-04-06T11:00:33.5223914Z"
+			},
+			{
+				"id": 124,
+				"name": "Solution 2",
+				"isDeleted": false,
+				"updateDate": "2022-04-06T11:00:33.5223914Z"
+			}
+		]
+	}]
+}
